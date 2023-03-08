@@ -1,0 +1,49 @@
+.div-1{
+display: flex;
+justify-content: center;
+width: 900px;
+}
+
+
+input{
+width: 110px;
+height: 15px;
+
+
+}
+
+
+#clearr{
+    width: 110px;
+    height: 20px;
+}
+
+
+p{
+color: darkgreen;
+position: relative;
+right: 316px;
+top: 70px;
+    
+
+
+}
+
+ul{
+
+    color: darkgreen;
+    position: relative;
+    right: 426px;
+    top: 120px;
+
+}
+
+
+#clear{
+
+    width: 110px !important;
+    height: 20px !important;
+    position: relative;
+    right: 100px;
+
+}
