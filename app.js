@@ -22,3 +22,34 @@ function clearList() {
 
   }
 
+var a=[12,1,3,14,2,15]
+
+var b=a.some(my);
+
+function my(age){
+
+return age >=10 
+
+
+}
+document.write(b+"<br>")
+
+
+var a=[12,1,3,14,2,15]
+
+var b=a.every(my);
+
+function my(age){
+
+return age >=10 
+
+
+}
+document.write(b)
+
+var b=Array.isArray(a)
+document.write(b)
+
+
+var b=a.lastIndexOf(15,4)
+document.write(b)
