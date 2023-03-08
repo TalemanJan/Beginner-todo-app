@@ -8,7 +8,7 @@ function add() {
   listItem.textContent = input;
   list.appendChild(listItem);
 
-  document.getElementById("arrayLength").textContent = x.length;
+  document.getElementById("arrayLength").textContent = x.length;  
 }
 
 
